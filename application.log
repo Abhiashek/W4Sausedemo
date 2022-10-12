@@ -1,0 +1,12 @@
+2022-10-12 11:59:59,546  INFO [main] W4SauseDemo:45 - Browser is opened
+2022-10-12 11:59:59,701  INFO [main] W4SauseDemo:48 - browser is maximized
+2022-10-12 12:00:01,293  INFO [main] W4SauseDemo:51 - SauceDemo URL is opened
+2022-10-12 12:00:01,826  INFO [main] W4SauseDemo:63 - username is entered
+2022-10-12 12:00:02,013  INFO [main] W4SauseDemo:66 - password is entered
+2022-10-12 12:00:02,254  INFO [main] W4SauseDemo:69 - Clicked on login button
+2022-10-12 12:00:05,379  INFO [main] W4SauseDemo:45 - Browser is opened
+2022-10-12 12:00:05,548  INFO [main] W4SauseDemo:48 - browser is maximized
+2022-10-12 12:00:06,726  INFO [main] W4SauseDemo:51 - SauceDemo URL is opened
+2022-10-12 12:00:07,326  INFO [main] W4SauseDemo:63 - username is entered
+2022-10-12 12:00:07,514  INFO [main] W4SauseDemo:66 - password is entered
+2022-10-12 12:00:07,755  INFO [main] W4SauseDemo:69 - Clicked on login button

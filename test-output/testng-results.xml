@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-12T11:59:32 IST" name="Suite" finished-at="2022-10-12T12:00:09 IST" duration-ms="36870">
+    <groups>
+    </groups>
+    <test started-at="2022-10-12T11:59:32 IST" name="SanityTest" finished-at="2022-10-12T12:00:09 IST" duration-ms="36870">
+      <class name="com.testclass.Tc02_VerifyLogout_functionalitry">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testclass.Tc02_VerifyLogout_functionalitry@bae7dc0]" started-at="2022-10-12T11:59:45 IST" name="setUp" finished-at="2022-10-12T11:59:56 IST" duration-ms="10989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogoutfunctionality()[pri:0, instance:com.testclass.Tc02_VerifyLogout_functionalitry@bae7dc0]" started-at="2022-10-12T11:59:56 IST" name="verifyLogoutfunctionality" finished-at="2022-10-12T11:59:56 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutfunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testclass.Tc02_VerifyLogout_functionalitry@bae7dc0]" started-at="2022-10-12T11:59:56 IST" name="tearDown" finished-at="2022-10-12T11:59:57 IST" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testclass.Tc02_VerifyLogout_functionalitry -->
+      <class name="com.testclass.Tc04_Verifyallproductcartbutton">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testclass.Tc04_Verifyallproductcartbutton@7db12bb6]" started-at="2022-10-12T12:00:03 IST" name="setUp" finished-at="2022-10-12T12:00:08 IST" duration-ms="4532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyallproductfunctionality()[pri:0, instance:com.testclass.Tc04_Verifyallproductcartbutton@7db12bb6]" started-at="2022-10-12T12:00:08 IST" name="verifyallproductfunctionality" finished-at="2022-10-12T12:00:08 IST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyallproductfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testclass.Tc04_Verifyallproductcartbutton@7db12bb6]" started-at="2022-10-12T12:00:08 IST" name="teardown" finished-at="2022-10-12T12:00:09 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testclass.Tc04_Verifyallproductcartbutton -->
+      <class name="com.testclass.Tc03_Verifyoneaddtocartbuttonfunctionilty">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testclass.Tc03_Verifyoneaddtocartbuttonfunctionilty@273e7444]" started-at="2022-10-12T11:59:57 IST" name="setUp" finished-at="2022-10-12T12:00:02 IST" duration-ms="5229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyproductfunctionality()[pri:0, instance:com.testclass.Tc03_Verifyoneaddtocartbuttonfunctionilty@273e7444]" started-at="2022-10-12T12:00:02 IST" name="verifyproductfunctionality" finished-at="2022-10-12T12:00:03 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyproductfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testclass.Tc03_Verifyoneaddtocartbuttonfunctionilty@273e7444]" started-at="2022-10-12T12:00:03 IST" name="teardown" finished-at="2022-10-12T12:00:03 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testclass.Tc03_Verifyoneaddtocartbuttonfunctionilty -->
+      <class name="com.testclass.Tc01_Verify_Login_functionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testclass.Tc01_Verify_Login_functionality@bd4dc25]" started-at="2022-10-12T11:59:32 IST" name="setUp" finished-at="2022-10-12T11:59:45 IST" duration-ms="13079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginFunctionality()[pri:0, instance:com.testclass.Tc01_Verify_Login_functionality@bd4dc25]" started-at="2022-10-12T11:59:45 IST" name="verifyLoginFunctionality" finished-at="2022-10-12T11:59:45 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testclass.Tc01_Verify_Login_functionality@bd4dc25]" started-at="2022-10-12T11:59:45 IST" name="tearDown" finished-at="2022-10-12T11:59:45 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testclass.Tc01_Verify_Login_functionality -->
+    </test> <!-- SanityTest -->
+  </suite> <!-- Suite -->
+</testng-results>
